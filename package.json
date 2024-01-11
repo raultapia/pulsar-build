@@ -1,0 +1,15 @@
+{
+  "name": "pulsar-build",
+  "main": "./lib/pulsar-build",
+  "version": "0.0.0",
+  "description": "Build your project directly from the Pulsar editor",
+  "keywords": [],
+  "repository": "https://github.com/raul/pulsar-build",
+  "license": "MIT",
+  "engines": {
+    "atom": "*"
+  },
+  "dependencies": {
+    "platformio-ide-terminal": "^2.10.0"
+  }
+}
